@@ -10,7 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 import com.YouTube.generic.BaseClass;
 import com.YouTube.generic.FileLib;
 
-public class GoogleApiPage extends BaseClass {
+public class GoogleApiPage {
 	
 	
 	@FindBy(id = "identifierId")
